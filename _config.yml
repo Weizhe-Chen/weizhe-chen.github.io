@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weizhe Chen"
 title_separator          : "-"
 name                     : &name "Weizhe Chen"
-description              : &description "Ph.D., ISE, IU"
+description              : &description "Ph.D. student, Intelligent Systems Engineering, Indiana University Bloomington"
 url                      : https://weizhe-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weizhe-chen/weizhe-chen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weizhe Chen"
   avatar           : "bio-photo.jpeg"
-  bio              : "Ph.D. student, ISE, IU"
+  bio              : "Ph.D. student, Intelligent Systems Engineering, Indiana University Bloomington"
   location         : "Bloomington, IN, USA"
   employer         :
   googlescholar    :
