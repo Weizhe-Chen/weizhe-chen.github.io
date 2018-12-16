@@ -1,5 +1,6 @@
 ---
 layout: single
+comments: true
 title:  "Test"
 header:
   teaser: "bio-photo.jpeg"
