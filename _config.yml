@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Weizhe Chen"
 title_separator          : "-"
 name                     : &name "Weizhe Chen"
-description              : &description "personal description"
+description              : &description "Ph.D. student interested in robotics and AI"
 url                      : https://weizhe-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weizhe-chen/weizhe-chen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weizhe Chen"
   avatar           : "bio-photo.jpeg"
-  bio              : "A Ph.D. student interested in robotics and AI"
+  bio              : "Ph.D. student interested in robotics and AI"
   location         : "Bloomington, IN, USA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "WeizheChen1"
+  twitter          :
   vine             :
   weibo            :
   xing             :
