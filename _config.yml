@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weizhe Chen"
 title_separator          : "-"
 name                     : &name "Weizhe Chen"
-description              : &description "Ph.D. student interested in robotics and AI"
+description              : &description "Ph.D., ISE, IU"
 url                      : https://weizhe-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weizhe-chen/weizhe-chen.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weizhe Chen"
   avatar           : "bio-photo.jpeg"
-  bio              : "Ph.D. student interested in robotics and AI"
+  bio              : "Ph.D. student, ISE, IU"
   location         : "Bloomington, IN, USA"
   employer         :
   googlescholar    :
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Weizhe_Chen4"
   uri              :
   bitbucket        :
   codepen          :
