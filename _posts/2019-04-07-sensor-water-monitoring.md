@@ -18,3 +18,11 @@ There are many types of sensors that can be used for monitoring environmental da
 
 Say something
 
+$\sum_i^N x_i = y$
+
+
+
+$$\delta \phi \epsilon$$
+
+
+
