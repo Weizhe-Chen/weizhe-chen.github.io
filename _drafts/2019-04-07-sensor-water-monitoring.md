@@ -15,14 +15,3 @@ There are many types of sensors that can be used for monitoring environmental da
 ## Temperature
 
 ![temperature](/images/temperature.jpg)
-
-Say something
-
-$\sum_i^N x_i = y$
-
-
-
-$$\delta \phi \epsilon$$
-
-
-
