@@ -9,3 +9,12 @@ tags:
 ---
 
 There are many types of sensors that can be used for monitoring environmental data. In this post, I will focus on water quality monitoring.
+
+# Sensors
+
+## Temperature
+
+![temperature](/images/temperature.jpg)
+
+Say something
+
