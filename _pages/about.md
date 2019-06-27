@@ -17,4 +17,4 @@ with potential applications in environmental sampling and monitoring, planetary 
 Before coming to IU, I had a great time in Information and Computing Science, School of Mathematical Sciences, South China Normal University, advised by [Prof. Xiangru Li](https://www.researchgate.net/profile/Xiangru_Li).
 
 # Milestones
-- [June 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted at Robotics: Science and Systems (RSS) 2019!
+- [June 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted at Robotics: Science and Systems (RSS) 2019.
