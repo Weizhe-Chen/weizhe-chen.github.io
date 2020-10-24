@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weizhe Chen"
+title                    : "Weizhe (Wes) Chen"
 title_separator          : "-"
 name                     : &name "Weizhe Chen"
-description              : &description "Ph.D. student, Intelligent Systems Engineering, Indiana University Bloomington"
+description              : &description "Ph.D. student, Robotics & Machine Learning"
 url                      : https://weizhe-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weizhe-chen/weizhe-chen.github.io"
@@ -21,7 +21,7 @@ future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : "weizhechen-com"
   discourse:
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weizhe Chen"
+  name             : "Weizhe (Wes) Chen"
   avatar           : "bio-photo.jpeg"
-  bio              : "Ph.D. student, Intelligent Systems Engineering, Indiana University Bloomington"
+  bio              : "Ph.D. student, Robotics & Machine Learning"
   location         : "Bloomington, IN, USA"
   employer         :
   googlescholar    :
   email            : chenweiz@iu.edu
-  researchgate     : "https://www.researchgate.net/profile/Weizhe_Chen4"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
