@@ -7,24 +7,13 @@ venue: 'Robotics: Science and Systems (RSS)'
 paperurl: 'http://www.roboticsproceedings.org/rss15/p72.pdf'
 ---
 
-# Video
+* Video: [![YouTube Link](https://img.youtube.com/vi/mdtgHT2yaU8/1.jpg)](https://www.youtube.com/watch?v=mdtgHT2yaU8&feature=youtu.be)
 
-[![YouTube Link](https://img.youtube.com/vi/mdtgHT2yaU8/1.jpg)](https://www.youtube.com/watch?v=mdtgHT2yaU8&feature=youtu.be)
+* [PDF](http://www.roboticsproceedings.org/rss15/p72.pdf)
 
-# Paper
+* [Poster](https://github.com/Weizhe-Chen/pareto-mcts/blob/master/media/poster.pdf)
 
-[PDF](http://www.roboticsproceedings.org/rss15/p72.pdf)
-
-# Poster
-
-[PDF](https://github.com/Weizhe-Chen/pareto-mcts/blob/master/media/poster.pdf)
-
-# Code
-
-[GitHub](https://github.com/Weizhe-Chen/pareto-mcts)
-
-
-# Bibtex
+* [Code](https://github.com/Weizhe-Chen/pareto-mcts)
 
 ```bibtex
 @INPROCEEDINGS{Liu-RSS-19, 
