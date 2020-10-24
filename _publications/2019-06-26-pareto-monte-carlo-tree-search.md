@@ -6,7 +6,9 @@ date: 2019-06-26
 venue: 'Robotics: Science and Systems (RSS)'
 paperurl: 'http://www.roboticsproceedings.org/rss15/p72.pdf'
 ---
-[![pareto_mcts_video](https://img.youtube.com/vi/69eDbklOZpk/0.jpg)](https://www.youtube.com/watch?v=69eDbklOZpk)
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=mdtgHT2yaU8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 
