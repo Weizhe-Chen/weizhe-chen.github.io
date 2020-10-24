@@ -6,15 +6,27 @@ date: 2019-06-26
 venue: 'Robotics: Science and Systems (RSS)'
 paperurl: 'http://www.roboticsproceedings.org/rss15/p72.pdf'
 ---
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=mdtgHT2yaU8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
+# Video
+
+[![YouTube Link](https://img.youtube.com/vi/mdtgHT2yaU8/1.jpg)](https://www.youtube.com/watch?v=mdtgHT2yaU8&feature=youtu.be)
+
+# Paper
+
+[PDF](http://www.roboticsproceedings.org/rss15/p72.pdf)
+
+# Poster
+
+[PDF](https://github.com/Weizhe-Chen/pareto-mcts/blob/master/media/poster.pdf)
+
+# Code
+
+[GitHub](https://github.com/Weizhe-Chen/pareto-mcts)
 
 
 # Bibtex
 
-```
+```bibtex
 @INPROCEEDINGS{Liu-RSS-19, 
     AUTHOR    = {Weizhe Chen AND Lantao Liu}, 
     TITLE     = {Pareto Monte Carlo Tree Search for Multi-Objective Informative Planning}, 
