@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a Ph.D. student co-advised by [Dr. Lantao Liu](http://homes.sice.indiana.edu/lantao/) and [Prof. Roni Khardon](http://homes.sice.indiana.edu/rkhardon/) at [Intelligent Systems Engineering](https://www.engineering.indiana.edu/), [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/), [Indiana University - Bloomington](https://www.indiana.edu/).
-I am broadly interested in robotics and machine learning, and currently focus on informative planning (Bayesian optimization / active learning + planning).
+Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indiana.edu/), co-advised by [Lantao Liu](http://homes.sice.indiana.edu/lantao/) ([Vehicle Autonomy and Intelligence Lab](https://vail.sice.indiana.edu/)) and [Roni Khardon](http://homes.sice.indiana.edu/rkhardon/).
+I am broadly interested in machine learning and robotics, and currently focus on informative planning (Bayesian optimization / active learning + planning).
 
 <!-- Before coming to IU, I had a great time in Information and Computing Science, School of Mathematical Sciences, South China Normal University, advised by [Prof. Xiangru Li](https://www.researchgate.net/profile/Xiangru_Li). -->
 
