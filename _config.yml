@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weizhe (Wes) Chen"
+title                    : "Weizhe (Wesley) Chen"
 title_separator          : "-"
 name                     : &name "Weizhe Chen"
 description              : &description "Ph.D. student, Robotics & Machine Learning"
