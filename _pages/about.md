@@ -13,4 +13,8 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 <!-- Before coming to IU, I had a great time in Information and Computing Science, School of Mathematical Sciences, South China Normal University, advised by [Prof. Xiangru Li](https://www.researchgate.net/profile/Xiangru_Li). -->
 
 # Milestones
-- [June 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted at Robotics: Science and Systems (RSS) 2019.
+- [Jun 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted at Robotics: Science and Systems (RSS) 2019.
+
+- [Dec 2019] Tested autonomous surface vehicle
+
+   ![heron_topdown](/images/heron_topdown.gif)
