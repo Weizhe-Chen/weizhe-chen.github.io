@@ -14,9 +14,9 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 
 # Milestones
 - [Dec 2019] Tested autonomous surface vehicle
-Bird's-Eye View                |  Front View
-:-------------------------:|:-------------------------:
-![heron_topdown](../images/heron_topdown.gif)  |  ![heron_front](../images/heron_front.gif)
+    Bird's-Eye View | Front View
+    :--------------:|:----------:
+    ![heron_topdown](../images/heron_topdown.gif)  |  ![heron_front](../images/heron_front.gif)
 
 - [Sep 2019] [Paper](https://ieeexplore.ieee.org/abstract/document/9029875) accepted at Conference on Decision and Control (CDC) 2019.
 - [Jun 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted by Robotics: Science and Systems (RSS) 2019.
