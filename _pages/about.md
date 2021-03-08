@@ -17,4 +17,4 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 
 - [Dec 2019] Tested autonomous surface vehicle
 
-   ![heron_topdown](/images/heron_topdown.gif)
+   ![heron_topdown](/images/heron_topdown.gif) ![heron_front](/images/heron_front.gif)
