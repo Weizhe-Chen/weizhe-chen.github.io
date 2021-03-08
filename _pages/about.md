@@ -16,5 +16,7 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 - [Jun 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted at Robotics: Science and Systems (RSS) 2019.
 
 - [Dec 2019] Tested autonomous surface vehicle
-
-   ![heron_topdown](/images/heron_topdown.gif) ![heron_front](/images/heron_front.gif)
+  
+Bird's-Eye View                |  Front View
+   :-------------------------:|:-------------------------:
+   ![heron_topdown](../images/heron_topdown.gif)  |  ![heron_front](../images/heron_front.gif)
