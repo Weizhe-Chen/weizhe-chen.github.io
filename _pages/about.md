@@ -13,7 +13,7 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 <!-- Before coming to IU, I had a great time in Information and Computing Science, School of Mathematical Sciences, South China Normal University, advised by [Prof. Xiangru Li](https://www.researchgate.net/profile/Xiangru_Li). -->
 
 # Milestones
-- [Dec 2019] Tested autonomous surface vehicle
+- [Dec 2019] Tested unmanned surface vessel (USV)
 
 Bird's-Eye View             | Front View
 :-------------------------:|:-------------------------:
