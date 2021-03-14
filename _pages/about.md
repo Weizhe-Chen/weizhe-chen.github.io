@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indiana.edu/), co-advised by [Lantao Liu](http://homes.sice.indiana.edu/lantao/) ([Vehicle Autonomy and Intelligence Lab](https://vail.sice.indiana.edu/)) and [Roni Khardon](http://homes.sice.indiana.edu/rkhardon/researchgroup.php).
-<!-- I am broadly interested in machine learning and robotics, and currently focus on informative planning (Bayesian optimization / active learning + planning). -->
 
-<!-- Before coming to IU, I had a great time in Information and Computing Science, School of Mathematical Sciences, South China Normal University, advised by [Prof. Xiangru Li](https://www.researchgate.net/profile/Xiangru_Li). -->
-
-# Milestones
-- [Dec 2019] Tested unmanned surface vessel (USV)
+# News
+- [March 2021] Tested USV in the University Lake
+![heron_univ_lake](../images/heron_univ_lake.gif) 
+- [Dec 2019] Tested unmanned surface vessel (USV) in the IU swimming pool
 
 Bird's-Eye View             | Front View
 :-------------------------:|:-------------------------:
