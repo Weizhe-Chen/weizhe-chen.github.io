@@ -13,10 +13,8 @@ Hi! I'm a Ph.D. student at [Indiana University - Bloomington](https://www.indian
 - [March 2021] Tested USV in the University Lake
 ![heron_univ_lake](../images/heron_univ_lake.gif) 
 - [Dec 2019] Tested unmanned surface vessel (USV) in the IU swimming pool
-
 Bird's-Eye View             | Front View
 :-------------------------:|:-------------------------:
 ![heron_topdown](../images/heron_topdown.gif)  |  ![heron_front](../images/heron_front.gif)
-
 - [Sep 2019] [Paper](https://ieeexplore.ieee.org/abstract/document/9029875) accepted at Conference on Decision and Control (CDC) 2019.
 - [Jun 2019] [Paper](/publication/2019-06-26-pareto-monte-carlo-tree-search) accepted by Robotics: Science and Systems (RSS) 2019.
