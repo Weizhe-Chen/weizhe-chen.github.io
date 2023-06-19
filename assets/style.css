@@ -86,23 +86,19 @@ strong {
 }
 
 #profile-intro {
-    /* margin-left: -2em; */
     text-align: justify;
 }
 
 #profile-pic {
     float: right;
-    width: 23%;
+    width: 30%;
     margin-top: 3em;
     margin-left: 2em;
     margin-bottom: 1em;
 }
 
 #profile img {
-    height: 13em;
-    /* border-radius: 10px; */
-    /* overflow: hidden; */
-    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); */
+    height: 17em;
 }
 
 #profile-name {
