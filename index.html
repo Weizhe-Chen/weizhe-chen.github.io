@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <link href="assets/font.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/style.css" />
+    <title>W. Chen Robotics</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+
+<body>
+    <div style="width:1000px;margin: 0px auto;">
+        <div id="profile">
+            <div id="profile-pic">
+                <img src="images/bio-photo-circle.png" />
+            </div>
+            <div id="profile-intro">
+                <div id="profile-name">Weizhe (Wesley) Chen</div>
+                <p>
+                    I am a Ph.D. candidate in the <a href="https://luddy.indiana.edu/">Luddy School of Informatics, Computing, and Engineering</a> at <a href="https://www.indiana.edu/">Indiana University Bloomington</a>, working with <a href="http://homes.sice.indiana.edu/lantao/">Lantao Liu</a> in <a href="https://vail.sice.indiana.edu/index.html">Vehicle Autonomy and Intelligence Lab</a> and <a href="https://cgi.luddy.indiana.edu/~rkhardon/index.php">Roni Khardon</a> in <a href="https://cgi.luddy.indiana.edu/~rkhardon/researchgroup.php">Machine Learning Research Group</a>.
+                    I interned at <a href="https://www.merl.com">Mitsubishi Electric Research Labs (MERL)</a>, working with <a href="https://www.merl.com/people/romeres">Diego Romeres</a> on robotic manipulation and <a href="https://www.merl.com/people/menner">Marcel Menner</a> on legged robot.
+                </p>
+                <p>
+                    My research focuses on <b>planning</b> and <b>learning</b> algorithms that empower intelligent robots to make <b>well-informed decisions</b> by effectively quantifying and handling <b>uncertainty</b>.
+                </p>
+                <div>
+                    <a href="https://scholar.google.com/citations?user=i5IAPAYAAAAJ&hl=en">Google Scholar</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://github.com/Weizhe-Chen">Github</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="pdfs/cv.pdf">CV</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="https://twitter.com/wchen_robotics">Twitter</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+                    Email: chenweiz at iu.edu
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="divider"></div>
+        <div class="section" id="updates">
+            <h1>Updates</h1>
+            <ul>
+                <li> <b>Jun 2023</b> One paper got accepted to <a href="https://arxiv.org/abs/2306.01263">IJRR</a>, discussing how non-stationary GPs enables more adaptive information gathering behaviors.
+                <li> <b>Apr 2023</b> One paper got accepted to <a href="https://arxiv.org/abs/2302.01491">IJCAI 2023</a>. We propose an online planner based on differentiable symbolic propagation of distributions.
+                <li> <b>Jan 2023</b> One paper got accepted to <a href="https://arxiv.org/abs/2203.13168">ICRA 2023</a>. This paper suggests calibrating perception uncertainty in cooperative autonomous driving.
+                <li> <b>Jun 2022</b> AK won the <a href="https://roboticsconference.org/2022/program/awards/">Best Student Paper Award at RSS 2022</a>!
+                <li> <b>Apr 2022</b> Attentive Kernel (AK) got accepted to <a href="https://arxiv.org/abs/2205.06426">RSS 2022</a>. AK improves spatial modeling accuracy and uncertainty quantification.
+                <li> <b>Jan 2022</b> One paper got accepted to <a href="https://arxiv.org/abs/2111.01822">ICRA 2022</a>. This work sheds light on the impact of outliers on active mapping.
+                <li> <b>Dec 2021</b> Our work is posted on <a href="https://www.amazon.science/research-awards/success-stories/how-lantao-liu-and-his-team-are-helping-robots-adapt-to-challenges">Amazon Research Awards</a>.
+                <li> <b>Aug 2021</b> Spent two years on developing the Autonomous Surface Vehicle (ASV) and non-stationary Gaussian processes (GPs).
+                    <br>
+                    <div class="update-details">
+                        <video autoplay loop muted>
+                            <source src="videos/updates/heron_iu_pool.mp4" type="video/mp4">
+                        </video>
+                        <video autoplay loop muted>
+                            <source src="videos/updates/heron_iu_lake.mp4" type="video/mp4">
+                        </video>
+                        <video autoplay loop muted>
+                            <source src="videos/updates/heron_monroe_lake.mp4" type="video/mp4">
+                        </video>
+                        <video autoplay loop muted>
+                            <source src="videos/updates/heron_quarry_lake.mp4" type="video/mp4">
+                        </video>
+                        <br>
+                        Released a ROS package for the BlueRobotics <a href="https://github.com/Weizhe-Chen/single_beam_sonar">single-beam sonar driver</a>.
+                        <br>
+                        Released a ROS package of <a href="https://github.com/Weizhe-Chen/tracking_pid">tracking PID controller</a> for differential-drive vehicles.
+                    </div>
+                <li> <b>Oct 2019</b> Presented one work at <a href="https://ieeexplore.ieee.org/document/8962826">OCEANS 2019 Seattle</a>. We apply streaming sparse GP regression to environmental monitoring.
+                <li> <b>Sep 2019</b> One paper got accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9029875">CDC 2019</a>, extending ParetoMCTS to spatiotemporal scenarios.
+                <li> <b>Jun 2019</b> ParetoMCTS got accepted by <a href="https://arxiv.org/abs/2111.01825">RSS 2019</a>. This work generalizes Monte Carlo tree search to multi-objective informative planning.
+            </ul>
+            <p></p>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="divider"></div>
+        <h1>Publications</h1>
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="5%">
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2023 IJRR -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://arxiv.org/abs/2306.01263" class="research-thumb">
+                        <img src="images/thumbnails/2023_ijrr.jpg" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://arxiv.org/abs/2306.01263" class="research-proj-title">
+                        Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Roni Khardon, Lantao Liu
+                        <br>International Journal of Robotics Research (<b>IJRR</b>), 2023</br>
+                        <a href="https://arxiv.org/abs/2306.01263">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://github.com/Weizhe-Chen/PyPolo">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2023_ijrr.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2023 IJCAI DiSProD -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://pecey.github.io/DiSProD/" class="research-thumb">
+                        <video autoplay loop muted>
+                            <source src="videos/thumbnails/2023_ijcai_disprod.mp4" type="video/mp4">
+                        </video>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://arxiv.org/abs/2302.01491" class="research-proj-title">
+                        DiSProD: Differentiable Symbolic Propagation of Distributions for Planning
+                    </a>
+                    <p>
+                        Palash Chatterjee, Ashutosh Chapagain, <b>Weizhe Chen</b>, Roni Khardon
+                        <br> International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), August 2023</br>
+                        <a href="https://pecey.github.io/DiSProD/">Webpage</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://arxiv.org/abs/2302.01491">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://github.com/pecey/DiSProD">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2023_ijcai_disprod.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2023 ICRA MAMAP -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://arxiv.org/abs/2203.13168" class="research-thumb">
+                        <img src="images/thumbnails/2023_icra_mamap.png" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://arxiv.org/abs/2203.13168" class="research-proj-title">
+                        Model-Agnostic Multi-Agent Perception Framework
+                    </a>
+                    <p>
+                        Runsheng Xu*, <b>Weizhe Chen*</b>, Hao Xiang*, Lantao Liu, Jiaqi Ma
+                        <br>International Conference on Robotics and Automation (<b>ICRA</b>), June 2023</br>
+                        <a href="https://arxiv.org/abs/2203.13168">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2023_icra_mamap.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2022 RSS AK -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://weizhe-chen.github.io/attentive_kernels/" class="research-thumb">
+                        <video autoplay loop muted>
+                            <source src="videos/thumbnails/2022_rss_ak.mp4" type="video/mp4">
+                        </video>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.roboticsproceedings.org/rss18/p047.html" class="research-proj-title">
+                        AK: Attentive Kernel for Information Gathering
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Roni Khardon, Lantao Liu
+                        <br>Robotics: Science and Systems (<b>RSS</b>), June 2022<br>
+                        <a href="https://weizhe-chen.github.io/attentive_kernels/">Webpage</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://arxiv.org/abs/2205.06426">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://youtu.be/qpoxSF5S9zk">Video</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://github.com/weizhe-chen/attentive_kernels">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://news.luddy.indiana.edu/story.html?story=Luddy-student-wins-Best-Paper-award-at-Robotics-Science-and-Systems">IU News</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2022_rss_ak.txt">BibTeX</a>
+                        <br><strong>Best Student Paper</strong>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2022 ICRA Outliers -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://arxiv.org/abs/2111.01822" class="research-thumb">
+                        <img src="images/thumbnails/2022_icra_outliers.png" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://ieeexplore.ieee.org/document/9812267" class="research-proj-title">
+                        Informative Planning in the Presence of Outliers
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Lantao Liu
+                        <br> International Conference on Robotics and Automation (<b>ICRA</b>), May 2022<br>
+                        <a href="https://arxiv.org/abs/2111.01822">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2022_icra_outliers.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2019 CDC MPTS -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9029875" class="research-thumb">
+                        <video autoplay loop muted>
+                            <source src="videos/thumbnails/2019_cdc_mpts.mp4" type="video/mp4">
+                        </video>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9029875" class="research-proj-title">
+                        Multi-Objective and Model-Predictive Tree Search for Spatiotemporal Informative Planning
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Lantao Liu
+                        <br>Conference on Decision and Control (<b>CDC</b>), December 2019<br>
+                        <a href="https://arxiv.org/abs/2306.09608">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2019_cdc_mpts.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2019 OCEANS -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://arxiv.org/abs/2306.06578" class="research-thumb">
+                        <img src="images/thumbnails/2019_oceans.png" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://ieeexplore.ieee.org/document/8962826" class="research-proj-title">
+                        Long-Term Autonomous Ocean Monitoring with Streaming Samples
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Lantao Liu
+                        <br>OCEANS, October 2019<br>
+                        <a href="https://arxiv.org/abs/2306.06578">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2019_oceans_ssgp.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+
+            <!-- ---------------------------------------------------------- -->
+            <!-- 2019 RSS ParetoMCTS -->
+            <!-- ---------------------------------------------------------- -->
+            <tr>
+                <td>
+                    <a href="https://arxiv.org/abs/2111.01825" class="research-thumb">
+                        <video autoplay loop muted>
+                            <source src="videos/thumbnails/2019_rss_pareto_mcts.mp4" type="video/mp4">
+                        </video>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.roboticsproceedings.org/rss15/p72.html" class="research-proj-title">
+                        Pareto Monte Carlo Tree Search for Multi-Objective Informative Planning
+                    </a>
+                    <p>
+                        <b>Weizhe Chen</b>, Lantao Liu
+                        <br>Robotics: Science and Systems (<b>RSS</b>), June 2019<br>
+                        <a href="https://arxiv.org/abs/2111.01825">ArXiv</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.youtube.com/watch?v=V4-PhYXbx-I&t=750s">Video</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://github.com/Weizhe-Chen/ParetoMCTS">Code</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="bibtex/2019_rss_pareto.txt">BibTeX</a>
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>

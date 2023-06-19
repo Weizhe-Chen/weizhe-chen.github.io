@@ -1,0 +1,9 @@
+@inproceedings{chen2022ak,
+    author = {Weizhe Chen AND Roni Khardon AND Lantao Liu},
+    title = {{AK: Attentive Kernel for Information Gathering}},
+    booktitle = {Proceedings of Robotics: Science and Systems (RSS)},
+    year = {2022},
+    address = {New York City, NY, USA},
+    month = {June},
+    doi = {10.15607/RSS.2022.XVIII.047}
+}

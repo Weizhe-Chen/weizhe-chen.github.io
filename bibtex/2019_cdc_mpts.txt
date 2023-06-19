@@ -1,0 +1,7 @@
+@inproceedings{chen2019multi,
+    title={Multi-objective and model-predictive tree search for spatiotemporal informative planning},
+    author={Chen, Weizhe and Liu, Lantao},
+    booktitle={2019 IEEE 58th Conference on Decision and Control (CDC)},
+    pages={5716--5722},
+    year={2019},
+}

@@ -1,0 +1,9 @@
+@inproceedings{chen2019pareto,
+    author = {Weizhe Chen AND Lantao Liu},
+    title = {Pareto Monte Carlo Tree Search for Multi-Objective Informative Planning},
+    booktitle = {Proceedings of Robotics: Science and Systems (RSS)},
+    year = {2019},
+    address = {FreiburgimBreisgau, Germany},
+    month = {June},
+    doi = {10.15607/RSS.2019.XV.072}
+}

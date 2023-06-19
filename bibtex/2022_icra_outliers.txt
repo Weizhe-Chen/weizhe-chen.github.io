@@ -1,0 +1,7 @@
+@inproceedings{chen2022informative,
+    title={Informative Planning in the Presence of Outliers},
+    author={Chen, Weizhe and Liu, Lantao},
+    booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+    pages={5311--5318},
+    year={2022},
+}

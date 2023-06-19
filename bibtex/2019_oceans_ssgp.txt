@@ -1,0 +1,7 @@
+@inproceedings{chen2019long,
+    title={Long-term autonomous ocean monitoring with streaming samples},
+    author={Chen, Weizhe and Liu, Lantao},
+    booktitle={OCEANS 2019 MTS/IEEE SEATTLE},
+    pages={1--8},
+    year={2019},
+}
