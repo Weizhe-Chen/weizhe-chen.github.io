@@ -1,6 +1,6 @@
-@article{chatterjee2023disprod,
+@inproceedings{chatterjee2023disprod,
     title={DiSProD: Differentiable Symbolic Propagation of Distributions for Planning},
     author={Chatterjee, Palash and Chapagain, Ashutosh and Chen, Weizhe and Khardon, Roni},
-    journal={arXiv preprint arXiv:2302.01491},
+    booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI)},
     year={2023}
 }

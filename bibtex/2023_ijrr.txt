@@ -1,6 +1,6 @@
 @article{chen2023adaptive,
-    title={Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes},
-    author={Chen, Weizhe and Khardon, Roni and Liu, Lantao},
-    journal={arXiv preprint arXiv:2306.01263},
-    year={2023}
+    author = {Weizhe Chen and Roni Khardon and Lantao Liu},
+    title ={Adaptive Robotic Information Gathering via Non-Stationary Gaussian processes},
+    journal = {The International Journal of Robotics Research (IJRR)},
+    year = {2023},
 }

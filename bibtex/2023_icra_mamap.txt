@@ -1,6 +1,7 @@
-@article{xu2022model,
+@inproceedings{xu2023model,
     title={Model-agnostic multi-agent perception framework},
-    author={Xu, Runsheng and Chen, Weizhe and Xiang, Hao and Liu, Lantao and Ma, Jiaqi},
-    journal={arXiv preprint arXiv:2203.13168},
-    year={2022}
+    author={Xu, Runsheng and Chen, Weizhe and Xiang, Hao and Xia, Xin and Liu, Lantao and Ma, Jiaqi},
+    booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+    pages={1471--1478},
+    year={2023},
 }

@@ -5,5 +5,4 @@
     year = {2022},
     address = {New York City, NY, USA},
     month = {June},
-    doi = {10.15607/RSS.2022.XVIII.047}
 }

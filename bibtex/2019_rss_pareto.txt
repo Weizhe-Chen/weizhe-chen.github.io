@@ -5,5 +5,4 @@
     year = {2019},
     address = {FreiburgimBreisgau, Germany},
     month = {June},
-    doi = {10.15607/RSS.2019.XV.072}
 }
